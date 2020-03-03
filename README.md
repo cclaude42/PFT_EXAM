@@ -28,9 +28,9 @@ git clone https://github.com/gavinfielder/pft.git pft_exam && echo "pft_exam/" >
 
 ## Usage
 
-**Warning : everytime you change your printf, you need to** ```make re``` **in PFT again.**
+**Warning : everytime you change your printf, you need to remake your libftprintf.a again.**
 
-**In the PFT_EXAM repo**, run ```make re```
+**In the PFT_EXAM repo**, run ```make```
 
 You can now run all the tests using ```./test``` 
 
